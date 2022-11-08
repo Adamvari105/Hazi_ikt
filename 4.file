@@ -1,0 +1,8 @@
+#4. 500 és 1000 között 3 al és 5 el oszthato számok felsorolása while ciklussal.
+x = 500
+
+while x < 1001:
+    
+    if x % 3 == 0 and x % 5 == 0:
+        print(x)
+    x += 1
