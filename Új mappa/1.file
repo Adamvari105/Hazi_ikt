@@ -1,7 +1,0 @@
-#1. szamok felsorolasa 1 töl 50 ig while ciklussal
-
-szam = 1
-while szam <= 50:
-    print(szam)
-    
-    szam = szam +1

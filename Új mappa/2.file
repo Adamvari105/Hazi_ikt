@@ -1,6 +1,0 @@
-#2. szam felsorolása while ciklussal 50 től kettesével 100 ig.
-
-szam = 50
-while szam <= 100:
-    print(szam)
-    szam = szam +2
