@@ -1,0 +1,9 @@
+#3. Kérjünk be két egész számot és vizsgáljuk meg hogy egyenlőek vagy sem.
+
+szam= int(input("Adj meg egy számot:"))
+szam2= int(input("Adj meg egy szamot:"))
+
+if szam == szam2:
+    print("A számok egyenlőek.")
+else:
+    print("A számok nem egyenlőek.")
